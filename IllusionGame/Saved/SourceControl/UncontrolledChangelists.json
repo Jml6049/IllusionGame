@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/IllusionGame/IllusionGame/Content/Door/Door.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/Drawer.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/DrawerHolder.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/InteractInterface.uasset",
+				"D:/IllusionGame/IllusionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/Interactible.uasset",
+				"D:/IllusionGame/IllusionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/W3/ZXWTQL9P0KPBMHN1B18URI.uasset",
+				"D:/IllusionGame/IllusionGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/D/7O/31L0AR15HERZW757EUV4JJ.uasset",
+				"D:/IllusionGame/IllusionGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/D/08/C4GVPSN8NYOWB8IR94IMNV.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/DrawerClass.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/DrawerChild.uasset",
+				"D:/IllusionGame/IllusionGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Reticle/red_reticle.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Reticle/Reticle.uasset",
+				"D:/IllusionGame/IllusionGame/Content/Interactible/standardSurface1.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/IllusionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
