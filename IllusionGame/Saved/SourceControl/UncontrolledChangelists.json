@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/BQ/8VGH2AALXZGOOIZGOC2RGF.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/Blueprints/HiddenWorld.uasset",
+				"C:/Users/andre/Desktop/Illusion/IllusionGame/IllusionGame/Content/Blueprints/H.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/IllusionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
