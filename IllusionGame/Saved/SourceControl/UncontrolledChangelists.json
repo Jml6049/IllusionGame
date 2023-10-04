@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/NoteOverlay.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/Blueprints/NoteOverlay.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/NoteUI.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/Images/testnote.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/IllusionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
