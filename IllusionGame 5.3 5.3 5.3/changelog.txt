@@ -1,0 +1,5 @@
+Changelog for Sprint 3:
+- Created an updated environment for the player.
+- Added a new "padlock" interactable.
+- New Notes were added.
+- When using the ability to see hidden objects, the player's eyes will start to "strain", making in harder to see.
