@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kmcnu/Dropbox/RIT Kevin's Files/RIT Fall 2023/IGME 320/IllusionGame/IllusionGame 5.3 5.3/Content/Map.umap",
+				"C:/Users/kmcnu/Dropbox/RIT Kevin's Files/RIT Fall 2023/IGME 320/IllusionGame/IllusionGame 5.3 5.3/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/kmcnu/Dropbox/RIT Kevin's Files/RIT Fall 2023/IGME 320/IllusionGame/IllusionGame 5.3 5.3/Content/level-intro.umap",
+				"C:/Users/kmcnu/Dropbox/RIT Kevin's Files/RIT Fall 2023/IGME 320/IllusionGame/IllusionGame 5.3 5.3/Content/level-perspective.umap",
+				"C:/Users/kmcnu/Dropbox/RIT Kevin's Files/RIT Fall 2023/IGME 320/IllusionGame/IllusionGame 5.3 5.3/Content/level-trail.umap",
 				"D:/IllusionGame/IllusionGame/Content/Door/Door.uasset",
 				"D:/IllusionGame/IllusionGame/Content/StarterContent/Props/SM_Door.uasset",
 				"D:/IllusionGame/IllusionGame/Content/Door/KeypadDoor.uasset",
