@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/Map.umap",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/level-intro.umap",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/final_map.umap",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/level-perspective.umap",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/level-trail.umap",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/Door/KeypadDoor.uasset",
+				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/Door/Keypad.uasset",
 				"C:/Users/kkm4987/Documents/GitHub/IllusionGame/IllusionGame/Content/level-perspective.umap",
 				"C:/Users/kkm4987/Documents/GitHub/IllusionGame/IllusionGame/Content/Assets/single-cabinet/shelf3.uasset",
 				"C:/Users/kkm4987/Documents/GitHub/IllusionGame/IllusionGame/Content/Assets/single-cabinet/shelf2.uasset",
@@ -315,8 +325,7 @@
 				"D:/IllusionGame/IllusionGame/Content/LevelPrototyping/Meshes/TEX_MM_BoneSaw_B.uasset",
 				"D:/IllusionGame/IllusionGame/Content/LevelPrototyping/Meshes/TEX_MM_BoneSaw_D.uasset",
 				"D:/IllusionGame/IllusionGame/Content/LevelPrototyping/Meshes/TEX_MM_BoneSaw_S.uasset",
-				"C:/Users/zombi/Downloads/IllusionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/StarterContent/Props/SM_Door.uasset"
+				"C:/Users/zombi/Downloads/IllusionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
