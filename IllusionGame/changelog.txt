@@ -11,5 +11,6 @@ Sprint 6 Changelog
 - Newly-spawned keypad doors always asking for a passkey and never opening bug has been fixed, so the player can move through the rooms properly
 - Controls menu has been added to the main menu screen so players can reference and know how to play before starting
 - Re-implimented note that was deleted in merge that served as worldbuilding
-- Final player model has been implemented.
+- Final player model has been implemented
+- Enemy model has been implemented
 - Player will now properly respawn at the start of the third area (and all progress is kept) after being caught by the enemy instead of the beginning.
