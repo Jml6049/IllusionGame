@@ -1,0 +1,15 @@
+Sprint 6 Changelog
+
+- Played around with the enemy to make sight and chasing work better, got rid of a patrol and have so the enemy goes back it's starting position instead
+- Added sound effects for most aspects of control
+- Added an ambient bg track
+- Added more parts of the environment to help enhance the feel of the final part of the game
+- Added more notes to both help the player understand the puzzle of the final area more but also to help with lore and fleshing out the set dressing
+- Fixed a bug with UI elements not being ordered correctly
+- Populated the second area of the game with items for better player immersion. Items include: a bookshelf, filing cabinets, a pair of galsses
+- Combined the sub-levels into one singular level to prevent the enemy navigation mesh from breaking
+- Newly-spawned keypad doors always asking for a passkey and never opening bug has been fixed, so the player can move through the rooms properly
+- Controls menu has been added to the main menu screen so players can reference and know how to play before starting
+- Re-implimented note that was deleted in merge that served as worldbuilding
+- Final player model has been implemented.
+- Player will now properly respawn at the start of the third area (and all progress is kept) after being caught by the enemy instead of the beginning.
