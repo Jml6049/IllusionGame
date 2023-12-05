@@ -14,3 +14,5 @@ Sprint 6 Changelog
 - Final player model has been implemented
 - Enemy model has been implemented
 - Player will now properly respawn at the start of the third area (and all progress is kept) after being caught by the enemy instead of the beginning.
+- Removed a room from the second area and moved assets around to minimize dead space
+- Retiled the floor so the wooden boards looked smaller
