@@ -9,10 +9,15 @@ Sprint 6 Changelog
 - Populated the second area of the game with items for better player immersion. Items include: a bookshelf, filing cabinets, a pair of galsses
 - Combined the sub-levels into one singular level to prevent the enemy navigation mesh from breaking
 - Newly-spawned keypad doors always asking for a passkey and never opening bug has been fixed, so the player can move through the rooms properly
-- Controls menu has been added to the main menu screen so players can reference and know how to play before starting
+- Controls menu has been added to the main menu and pause screens so players can reference and know how to play
 - Re-implimented note that was deleted in merge that served as worldbuilding
-- Final player model has been implemented
-- Enemy model has been implemented
+- Final player model has been implemented and animated
 - Player will now properly respawn at the start of the third area (and all progress is kept) after being caught by the enemy instead of the beginning.
 - Removed a room from the second area and moved assets around to minimize dead space
 - Retiled the floor so the wooden boards looked smaller
+- Player will no longer have access to the glasses until a condition is met for story immersion
+- Puzzles have been adjusted to have better direction on how to solve
+- Extra puzzle clues have also been added
+- Optimized some lighting and post processing
+- Moved around objects for easier searching based on playtest feedback
+- Added a note to teach player how to use the glasses for onboarding purposes
