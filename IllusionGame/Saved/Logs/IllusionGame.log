@@ -1157,3 +1157,215 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.08-00.13.26:944][  3]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.12.08-00.13.27:554][  4]LogPhysics: Warning: Scale for /Game/level-trail.level-trail:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=3.781 Z=3.437
 [2023.12.08-00.13.31:884][ 17]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/' took 5.26s
+[2023.12.08-00.14.56:732][339]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-00.14.56:760][339]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-00.15.00:728][802]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.08-00.15.28:059][558]LogDerivedDataCache: C:/Users/zombi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.113 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8953 files in 10898 folders with total size 353 MiB.
+[2023.12.08-00.15.57:024][325]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Pause_Menu.Pause_Menu
+[2023.12.08-00.15.57:024][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.15.57:024][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.15.57:041][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.15.57:041][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.15.57:046][325]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.12.08-00.15.57:047][325]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.08-00.15.57:490][325]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.08-00.15.57:499][325]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.12.08-00.15.57:499][325]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.08-00.16.03:640][810]LogSlate: Took 0.000618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.12.08-00.16.26:862][987]BlueprintLog: New page: Compile Pause_Menu
+[2023.12.08-00.16.26:882][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.08-00.16.27:367][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-00.16.27:411][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_Menu" FILE="../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Pause_Menu.uasset" SILENT=true
+[2023.12.08-00.16.27:418][ 34]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.006752 seconds
+[2023.12.08-00.16.27:425][ 34]LogSavePackage: Moving output files for package: /Game/UI/Pause_Menu
+[2023.12.08-00.16.27:425][ 34]LogSavePackage: Moving '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Saved/Pause_Menu6A0733A040590700CBFDB8B9BF5DBF29.tmp' to '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Pause_Menu.uasset'
+[2023.12.08-00.16.27:431][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms
+[2023.12.08-00.16.27:433][ 34]AssetCheck: New page: Asset Save: Pause_Menu
+[2023.12.08-00.16.27:433][ 34]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_Menu.Pause_Menu
+[2023.12.08-00.16.28:318][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.08-00.16.28:322][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.08-00.16.28:322][128]PIE: New page: PIE session: level-trail (Dec 7, 2023, 2:16:28 PM)
+[2023.12.08-00.16.28:325][128]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.08-00.16.28:325][128]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.08-00.16.28:325][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level-trail
+[2023.12.08-00.16.28:350][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025458s)
+[2023.12.08-00.16.28:350][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level-trail.level-trail to /Game/UEDPIE_0_level-trail.level-trail (0.025484s)
+[2023.12.08-00.16.28:360][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.08-00.16.28:362][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.16.28:362][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.16.28:362][128]LogAIModule: Creating AISystem for world level-trail
+[2023.12.08-00.16.28:363][128]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2023.12.08-00.16.28:363][128]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.08-00.16.28:363][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.08-00.16.28:363][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.08-00.16.28:363][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.08-00.16.28:363][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.08-00.16.28:363][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.08-00.16.28:364][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.08-00.16.28:381][128]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAGEAR (NVIDIA High Definition Audio)
+[2023.12.08-00.16.28:381][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.08-00.16.28:381][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.08-00.16.28:381][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.08-00.16.28:382][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.08-00.16.28:382][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.08-00.16.28:383][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.08-00.16.28:383][128]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.08-00.16.28:383][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.08-00.16.28:383][128]LogAudio: Display: Audio Device (ID: 2) registered with world 'level-trail'.
+[2023.12.08-00.16.28:383][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.08-00.16.28:400][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-00.16.28:400][128]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.08-00.16.28:404][128]LogPhysics: Warning: Scale for /Game/UEDPIE_0_level-trail.level-trail:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=3.781 Z=3.437
+[2023.12.08-00.16.28:412][128]LogWorld: Bringing World /Game/UEDPIE_0_level-trail.level-trail up for play (max tick rate 0) at 2023.12.07-19.16.28
+[2023.12.08-00.16.28:412][128]LogWorld: Bringing up level for play took: 0.012600
+[2023.12.08-00.16.28:414][128]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.12.08-00.16.28:421][128]PIE: Server logged in
+[2023.12.08-00.16.28:421][128]PIE: Play in editor total start time 0.1 seconds.
+[2023.12.08-00.16.28:435][128]LogViewport: Scene viewport resized to 1747x1220, mode Windowed.
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: ================================================
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Total job queries 168, among them cache hits 19 (11.31%)
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Tracking 149 distinct input hashes that result in 131 distinct outputs (87.92%)
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: RAM used: 5.16 MiB of 1.60 GiB budget. Usage: 0.31%
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Shaders Compiled: 96
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Jobs assigned 96, completed 96 (100%)
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Time job spent in pending queue: average 1.33 s, longest 8.69 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Job execution time: average 6.64 s, max 8.03 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Job life time (pending + execution): average 7.97 s, max 9.60
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Shader code size: average 64.438 KiB, min 52.012 KiB, max 86.191 KiB
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.60 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 5.65 jobs/batch
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Average processing rate: 10.00 jobs/sec
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Total thread time: 70.493 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Total thread preprocess time: 1.545 s
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Percentage time preprocessing: 2.19%
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Effective parallelization: 7.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled   96 times, average 0.73 sec, max 0.93 sec, min 0.57 sec)
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display:                                             FDeferredLightPS - 100.00% of total time (compiled   96 times, average 0.73 sec, max 0.93 sec, min 0.57 sec)
+[2023.12.08-00.16.28:785][130]LogShaderCompilers: Display: ================================================
+[2023.12.08-00.16.30:623][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-00.16.30:623][231]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level-trail
+[2023.12.08-00.16.30:623][231]LogSlate: Window 'IllusionGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.08-00.16.30:627][231]LogWorld: UWorld::CleanupWorld for level-trail, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-00.16.30:629][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-00.16.30:631][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.08-00.16.30:635][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-00.16.30:643][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.08-00.16.30:643][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.08-00.16.30:643][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.08-00.16.30:645][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.08-00.16.30:653][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.12.08-00.16.30:689][235]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.12.08-00.16.33:284][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.08-00.16.33:288][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.08-00.16.33:288][498]PIE: New page: PIE session: level-trail (Dec 7, 2023, 2:16:33 PM)
+[2023.12.08-00.16.33:288][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level-trail
+[2023.12.08-00.16.33:314][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025928s)
+[2023.12.08-00.16.33:314][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level-trail.level-trail to /Game/UEDPIE_0_level-trail.level-trail (0.025953s)
+[2023.12.08-00.16.33:323][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.08-00.16.33:324][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.16.33:324][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.16.33:324][498]LogAIModule: Creating AISystem for world level-trail
+[2023.12.08-00.16.33:324][498]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.12.08-00.16.33:324][498]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.08-00.16.33:324][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.08-00.16.33:324][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.08-00.16.33:325][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.08-00.16.33:325][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.08-00.16.33:325][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.08-00.16.33:326][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.08-00.16.33:343][498]LogAudioMixer: Display: Using Audio Hardware Device LG ULTRAGEAR (NVIDIA High Definition Audio)
+[2023.12.08-00.16.33:343][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.08-00.16.33:343][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.08-00.16.33:343][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.08-00.16.33:344][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.08-00.16.33:344][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.08-00.16.33:345][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.08-00.16.33:345][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.08-00.16.33:345][498]LogInit: FAudioDevice initialized with ID 3.
+[2023.12.08-00.16.33:345][498]LogAudio: Display: Audio Device (ID: 3) registered with world 'level-trail'.
+[2023.12.08-00.16.33:345][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.08-00.16.33:366][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-00.16.33:367][498]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.08-00.16.33:372][498]LogPhysics: Warning: Scale for /Game/UEDPIE_0_level-trail.level-trail:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=3.781 Z=3.437
+[2023.12.08-00.16.33:383][498]LogWorld: Bringing World /Game/UEDPIE_0_level-trail.level-trail up for play (max tick rate 0) at 2023.12.07-19.16.33
+[2023.12.08-00.16.33:383][498]LogWorld: Bringing up level for play took: 0.016310
+[2023.12.08-00.16.33:385][498]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.12.08-00.16.33:390][498]PIE: Server logged in
+[2023.12.08-00.16.33:390][498]PIE: Play in editor total start time 0.102 seconds.
+[2023.12.08-00.16.33:401][498]LogViewport: Scene viewport resized to 1749x1230, mode Windowed.
+[2023.12.08-00.16.34:802][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-00.16.34:802][565]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level-trail
+[2023.12.08-00.16.34:802][565]LogSlate: Window 'IllusionGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.08-00.16.34:807][565]LogWorld: UWorld::CleanupWorld for level-trail, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-00.16.34:809][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-00.16.34:811][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.08-00.16.34:816][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-00.16.34:826][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.08-00.16.34:826][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.08-00.16.34:827][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.08-00.16.34:835][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.08-00.16.34:871][568]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.12.08-00.16.41:193][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.08-00.16.41:829][ 89]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.12.08-00.16.41:843][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.08-00.17.28:342][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-00.17.28:379][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_Menu" FILE="../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Pause_Menu.uasset" SILENT=true
+[2023.12.08-00.17.28:385][179]LogSavePackage: Moving output files for package: /Game/UI/Pause_Menu
+[2023.12.08-00.17.28:386][179]LogSavePackage: Moving '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Saved/Pause_Menu090A64934BC1132D361D72B330534E2B.tmp' to '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Pause_Menu.uasset'
+[2023.12.08-00.17.28:399][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 121 ms)
+[2023.12.08-00.17.28:400][179]AssetCheck: New page: Asset Save: Pause_Menu
+[2023.12.08-00.17.28:400][179]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_Menu.Pause_Menu
+[2023.12.08-00.17.33:431][680]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Controls_Menu.Controls_Menu
+[2023.12.08-00.17.33:431][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.17.33:431][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.17.33:442][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.08-00.17.33:442][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-00.18.19:814][858]BlueprintLog: New page: Compile Controls_Menu
+[2023.12.08-00.18.19:836][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.08-00.18.20:408][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-00.18.20:442][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Controls_Menu" FILE="../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset" SILENT=true
+[2023.12.08-00.18.20:448][920]LogSavePackage: Moving output files for package: /Game/UI/Controls_Menu
+[2023.12.08-00.18.20:449][920]LogSavePackage: Moving '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Saved/Controls_Menu0DF46CDF4B89970145F6D399AE6822F3.tmp' to '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset'
+[2023.12.08-00.18.20:455][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 168 ms)
+[2023.12.08-00.18.20:456][920]AssetCheck: New page: Asset Save: Controls_Menu
+[2023.12.08-00.18.20:456][920]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Controls_Menu.Controls_Menu
+[2023.12.08-00.18.26:132][540]BlueprintLog: New page: Compile Controls_Menu
+[2023.12.08-00.18.26:150][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.08-00.18.28:906][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-00.18.28:933][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Controls_Menu" FILE="../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset" SILENT=true
+[2023.12.08-00.18.28:939][854]LogSavePackage: Moving output files for package: /Game/UI/Controls_Menu
+[2023.12.08-00.18.28:939][854]LogSavePackage: Moving '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Saved/Controls_Menu07D450644EFC2F7D32963E808E3BAB15.tmp' to '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset'
+[2023.12.08-00.18.28:947][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 209 ms)
+[2023.12.08-00.18.28:948][854]AssetCheck: New page: Asset Save: Controls_Menu
+[2023.12.08-00.18.28:948][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Controls_Menu.Controls_Menu
+[2023.12.08-00.18.38:548][952]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.12.08-00.18.38:564][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.08-00.18.40:221][ 57]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.08-00.19.13:332][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.08-00.19.13:360][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Controls_Menu" FILE="../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset" SILENT=true
+[2023.12.08-00.19.13:367][501]LogSavePackage: Moving output files for package: /Game/UI/Controls_Menu
+[2023.12.08-00.19.13:367][501]LogSavePackage: Moving '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Saved/Controls_MenuC97CE5014B30E23128D971A184A122EF.tmp' to '../../../../../../Users/zombi/Documents/GitHub/IllusionGame/IllusionGame/Content/UI/Controls_Menu.uasset'
+[2023.12.08-00.19.13:372][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 249 ms)
+[2023.12.08-00.19.13:375][501]AssetCheck: New page: Asset Save: Controls_Menu
+[2023.12.08-00.19.13:375][501]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Controls_Menu.Controls_Menu
+[2023.12.08-00.19.14:734][662]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-00.19.14:734][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-00.19.14:738][662]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-00.19.14:738][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
